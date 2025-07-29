@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949534937675",
+    "project_id": "xpreogistics",
+    "storage_bucket": "xpreogistics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949534937675:android:6adcf5fb6324ee8579f3ce",
+        "android_client_info": {
+          "package_name": "com.xpresslogistic.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWIu5tjRYqooPzT9X8EI9YN1rVZzplId0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
